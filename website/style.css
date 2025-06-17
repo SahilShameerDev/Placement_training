@@ -1,0 +1,30 @@
+
+*{
+    font-family: "Quicksand", sans-serif;
+
+}
+
+
+.hello{
+    color: red;
+}
+.world{
+    color: blue;
+}
+.car{
+    height: 60rem;
+}
+
+.whatsapp{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #25D366;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
